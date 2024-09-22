@@ -11,6 +11,6 @@ This is a JAVA Spring Boot Application which converts an HTML file into a desire
 
 ## APIs
 
-POST '/voucher/generate'
-args: html file (String)
+POST '/voucher/generate' <br>
+args: html file (String) <br>
 return: Response 200 Ok if the PDF is generated
